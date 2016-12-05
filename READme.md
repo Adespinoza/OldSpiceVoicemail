@@ -12,29 +12,29 @@ When a user wants to input values, they have to choose from the following based 
 
 #### Reasons:
 
-[1]: Building an orphanage for children with their bare hands while playing a sweet, sweet lullaby for those children with two mallets against their abs xylophone.
-[2]: Cracking walnuts with their man mind.
-[3]: Polishing their monocle smile.
-[4]: Ripping out mass loads of weights.
+* [1]: Building an orphanage for children with their bare hands while playing a sweet, sweet lullaby for those children with two mallets against their abs xylophone.
+* [2]: Cracking walnuts with their man mind.
+* [3]: Polishing their monocle smile.
+* [4]: Ripping out mass loads of weights.
 
 #### Endings:
-[1]: I'm on a horse.
-[2]: I'm on a phone.
-[3]: SWAN DIVE.
-[4]: This voicemail is now diamonds.
+* [1]: I'm on a horse.
+* [2]: I'm on a phone.
+* [3]: SWAN DIVE.
+* [4]: This voicemail is now diamonds.
 
 ### Female Input
 
 #### Reasons:
-[1]: Ingesting my delicious Old Spice man smell.
-[2]: Listening to me read romantic poetry while I make a bouquet of paper flowers from each read page.
-[3]: Enjoying a lobster dinner I prepared just for her while carrying her on my back safely through piranha infested aters.
-[4]: Being serenaded on the moon with the view of the earth while surviving off the oxygen in my lungs via a passionate kiss.
-[5]: Riding a horse backwards with me.
+* [1]: Ingesting my delicious Old Spice man smell.
+* [2]: Listening to me read romantic poetry while I make a bouquet of paper flowers from each read page.
+* [3]: Enjoying a lobster dinner I prepared just for her while carrying her on my back safely through piranha infested aters.
+* [4]: Being serenaded on the moon with the view of the earth while surviving off the oxygen in my lungs via a passionate kiss.
+* [5]: Riding a horse backwards with me.
 
 #### Endings:
-[1]: But she'll get back to you as soon as she can.
-[2]: Thanks for calling.
+* [1]: But she'll get back to you as soon as she can.
+* [2]: Thanks for calling.
 
 ## Command Line Arguments:
 Using the Command Line, users have to follow a certain format listed below:
